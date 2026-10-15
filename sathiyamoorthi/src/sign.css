@@ -1,0 +1,47 @@
+
+#box{
+    width:500px;
+    height: 450px;
+    background-color: rgb(134, 129, 129);
+   margin-left: 35%; 
+   margin-top: 5%;
+   margin-bottom: 10%;
+   border: none;
+   
+   
+}
+ h1{
+    position: absolute;
+   margin-left: 13%;
+   font-weight:3%;
+   font-style: italic;
+}
+#name{
+    padding: 5% 10% 5% 20%;
+   margin-top: 20%; 
+   margin-left: 15%;
+   border: none;
+   
+}
+#pass{
+    padding:5% 10% 5% 20%;
+  margin-top: 10%;
+   margin-left: 15%;
+   border: none;
+}
+#btn{
+    padding:3% 10% 3% 10%;
+  margin-top: 6%;
+   margin-left: 30%;
+   border: none;
+   border-radius: 10px;
+   background-color: rgb(170, 185, 81);
+}
+#acc{
+    margin-left: 15%;
+}
+#btn:hover{
+    background-color: rgb(50, 128, 196);
+}
+
+

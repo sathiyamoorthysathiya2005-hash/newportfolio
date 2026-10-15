@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+
+}
+ .bar{
+    margin-left: 10%;
+    margin-top: 4%;
+    font-size: larger;
+ }
+ #para{
+    font-size:30px;
+
+    padding:10px;
+    margin-top:10%;
+
+ }
+#para1{
+   
+    font-size: 40px;
+    top: 9%;
+   margin-bottom: 200px; 
+}
+ #dom{
+    position: absolute;
+    padding: 5px;
+    top: 50%; 
+    font-size:300%;
+    left: -50px;
+ }
+ #btn1{
+    position: absolute;
+    margin-top:2% ;
+    margin-left: 5%;
+    padding: 2% 10% 2% 10%;
+    border: none;
+    border-radius: 10px;
+    background-color: goldenrod;
+ }
+ #btn1:hover{
+    background-color: rgb(110, 5, 105);
+ }
+ 
+
+ .hero-image{
+    position: absolute;
+    height: 65%;
+    width: 30%;
+    right: 7%;
+    top: 20%;
+    border: none;
+    border: rgb(221, 168, 22) 10px solid ;
+    border-radius: 500px;
+ }
